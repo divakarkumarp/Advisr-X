@@ -165,7 +165,7 @@ The Advisr-X ♣️ system uses a hierarchical agent architecture where a centra
 
 ```mermaid
 graph TD
-    A[Advisr-X♣️ Supervisor] --> B[Policy Expert Agent]
+    A[Advisr-X♣️] --> B[Policy Expert Agent]
     A --> C[Claim Assistant Agent]
     A --> D[Service Finder Agent]
     A --> E[Policy Review Agent]
