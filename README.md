@@ -291,7 +291,7 @@ graph TD
 ```mermaid
 sequenceDiagram
     participant User
-    participant Supervisor as Advisr-X Supervisor
+    participant Supervisor as Advisr-X♣️
     participant LangGraph as LangGraph Engine
     participant Agents as Specialized Agents
     participant Tavily as Tavily Search
